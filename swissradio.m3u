@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 radio="true",Radio Swiss Pop
+#EXTINF:-1 group-title="group 1" radio="true",Radio Swiss Pop
 https://stream.srg-ssr.ch/srgssr/rsp/aac/192
 #EXTINF:-1 radio="true",Radio Swiss Classic (DE)
 https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192
