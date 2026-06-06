@@ -1,7 +1,47 @@
 #EXTM3U
-#EXTINF:-1 radio="true" tvg-logo="https://www.radioswissjazz.ch/_nuxt/img/rsj-logo-claim-desktop.beb322c.png",Radio Swiss Jazz
-http://stream.srg-ssr.ch/m/rsj/aacp_96
-#EXTINF:-1 radio="true" tvg-logo="https://www.radioswisspop.ch/_nuxt/img/rsp-logo-claim-desktop.548faab.png",Radio Swiss Pop
+# more radio stations here:
+# https://www.radio-browser.info/
+# https://bommag.ch/uploads/pdf/Internet-Radio%20direkte%20Streams_Stand%20September_23.pdf
+# https://www.broadcast.ch/fileadmin/kundendaten/Dokumente/Internet_Streaming/links_for_streaming_internetradio_de_fr_it_01.pdf
+# https://mytuner-radio.com
+
+#EXTINF:-1 radio="true" tvg-logo="https://mytuner-radio.com/radio/radio-swiss-pop-411748/",Radio Swiss Pop 2
 https://stream.srg-ssr.ch/srgssr/rsp/aac/192
-#EXTINF:-1 radio="true" tvg-logo="https://www.radioswissclassic.ch/_nuxt/img/rsc-logo-claim-desktop.520c5d8.png",Radio Swiss Classic (DE)
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/3ahfdrpkx66j.png",Radio Swiss Classic (DE)
 https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/AFTHp5jWeh.png",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/aacp_96
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ffErA2cDsb.png",SRF 1
+https://stream.srg-ssr.ch/srgssr/srf1/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/8LG9ezSfpQ.png",SRF 1 (ZH/SH)
+https://stream.srg-ssr.ch/srgssr/regi_zh_sh/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/XphWMbkRsU.png",SRF 2 Kultur
+https://stream.srg-ssr.ch/srgssr/srf2/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/253/srf-3.2cb29ccb.png",SRF 3
+https://stream.srg-ssr.ch/srgssr/srf3/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EMXpJkjqWj.png",SRF 4 News
+https://stream.srg-ssr.ch/srgssr/srf4news/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/3dEg2QhxNP.png",SRF Virus
+https://stream.srg-ssr.ch/srgssr/srfvirus/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/dqVL9XpFjs.png",SRF Musikwelle
+https://stream.srg-ssr.ch/srgssr/srfmw/aac/192
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/AfaHtAADzH.png",Energy ZH
+https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/457/radio-zurisee.77d9f057.jpg",Radio Zürisee
+http://mp3.radio.ch/radiozuerisee128k
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/cX22Caxdbj.png",Radio 24
+https://stream.streambase.ch/radio24/mp3-192/direct/
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/kt4frztakrpn.jpg",Vintage Radio
+https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/rmqctrmm8rxr.png",Eviva
+https://stream.streambase.ch/reviva/mp3-192/direct/
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/PeEGn5FBnz.png",Radio Melody
+https://stream.streambase.ch/rm/mp3-192/direct/
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/e5qy5hrgqmtb.png",Country Radio Swizerland
+https://countryradioswitzerland/.ice.infomaniak.ch/crs-128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NhScmNK9Cb.png",Virgin Radio Swizerland
+https://stream.streambase.ch/vrock/mp3-192/direct/
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/qqPZVrE4ue.jpg",Radio FM1
+https://stream.streambase.ch/radiofm1/mp3-192/direct
+#EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ejuEEsDUDs.png",Schlager Radio
+https://schlagerradio.ice.infomaniak.ch/schlagerradio-high.mp3
