@@ -5,7 +5,7 @@
 # https://www.broadcast.ch/fileadmin/kundendaten/Dokumente/Internet_Streaming/links_for_streaming_internetradio_de_fr_it_01.pdf
 # https://mytuner-radio.com
 
-#EXTINF:-1 radio="true" tvg-logo="https://mytuner-radio.com/radio/radio-swiss-pop-411748/",Radio Swiss Pop 2
+#EXTINF:-1 radio="true" tvg-logo="https://mytuner-radio.com/radio/radio-swiss-pop-411748/",Radio Swiss Pop
 https://stream.srg-ssr.ch/srgssr/rsp/aac/192
 #EXTINF:-1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/3ahfdrpkx66j.png",Radio Swiss Classic (DE)
 https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192
